@@ -1,0 +1,6 @@
+Python ≥ 3.9  
+tensorflow==2.19.0
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+scikit-learn>=1.4 
