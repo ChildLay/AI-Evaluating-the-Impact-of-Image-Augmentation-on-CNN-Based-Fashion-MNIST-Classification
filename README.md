@@ -1,8 +1,8 @@
-# COMP813 Artificial Intelligence – Evaluating the Impact of Image Augmentation on CNN-Based Fashion-MNIST Classification
+# Artificial Intelligence – Evaluating the Impact of Image Augmentation on CNN-Based Fashion-MNIST Classification
 
-**Institution:** Auckland University of Technology  
+**Institution:**   
 **Name:** Khin Khin Maw     
-**Student ID:** 24242885    
+**Student ID:**     
 
 ---
 
@@ -32,7 +32,7 @@ Metrics used: **Accuracy**, **Macro-F1**, and **Grad-CAM visualization**.
 
 ## Folder / File Structure
 ```
-COMP813_24242885__KhinKhinMaw_CNN_BasedFashion_MNISTClassification.ipynb
+KhinKhinMaw_CNN_BasedFashion_MNISTClassification.ipynb
     → Main Jupyter Notebook (code, figures, outputs)
 requirements.txt
     → Python dependencies
@@ -68,7 +68,7 @@ jupyter notebook
 ```
 
 Then open:  
-`COMP813_24242885__KhinKhinMaw_CNN_BasedFashion_MNISTClassification.ipynb`  
+`KhinKhinMaw_CNN_BasedFashion_MNISTClassification.ipynb`  
 and execute all cells (**Runtime → Run All**).
 
 or
@@ -77,7 +77,7 @@ or
 ###  Open the Notebook in Google Colab
 1. Go to [Google Colab](https://colab.research.google.com/).  
 2. Upload the file:  
-   `COMP813_24242885__KhinKhinMaw_CNN_BasedFashion_MNISTClassification.ipynb`  
+   `KhinKhinMaw_CNN_BasedFashion_MNISTClassification.ipynb`  
 3. Once opened, make sure the runtime type is set to **GPU** (optional but faster):  
    - Click **Runtime → Change runtime type → Hardware accelerator → GPU**
 
